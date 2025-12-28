@@ -59,13 +59,6 @@ Beyond coding, I’m a **technical writer & mentor**, helping others grow in the
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <!-- GitHub Stats Card -->
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=ayeshachowdhury45&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&include_all_commits=true" alt="Ayesha's GitHub Stats" />
-
-  <!-- Top Languages Card -->
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshachowdhury45&layout=compact&theme=vue-dark&hide_border=true&count_private=true" alt="Ayesha's Top Languages" />
-</p>
 
 <p align="center">
   <!-- GitHub Streak Stats -->
