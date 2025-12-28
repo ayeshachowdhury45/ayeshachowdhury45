@@ -54,7 +54,6 @@ Beyond coding, I’m a **technical writer & mentor**, helping others grow in the
   <img height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"/>
   <img height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg"/>
   <img height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg"/>
-  <img height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/odoo/odoo-original.svg"/>
 </p>
 
 ---
@@ -76,11 +75,14 @@ Beyond coding, I’m a **technical writer & mentor**, helping others grow in the
 
 ---
 
-## 🔗 Connect With Me
+<div align="center" style="max-width: 700px; margin: auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
-<p align="center">
-  <a href="https://twitter.com/ayeshachowdhury45">Twitter</a> • 
-  <a href="https://www.linkedin.com/in/ayeshachowdhury45/">LinkedIn</a> • 
-  <a href="https://medium.com/@ayeshachowdhury45">Medium</a> • 
-  <a href="https://ayeshachowdhury45.github.io/">Portfolio</a>
-</p>
+  <p style="font-size: 1.4rem; font-style: italic; color: #4ADE80; text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2); margin-bottom: 1.5rem;">
+    Keep solving. Keep learning. Keep building.
+  </p>
+
+  <p style="font-size: 1.3rem; font-style: italic; color: #FBBF24; text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2); line-height: 1.5;">
+    জীবনে যত বড় হও, পা দুটি মাটিতে রাখো। মাটির তৈরি, মাটিতেই আত্মসমর্পণ। সময়টাও খুবই কম।
+  </p>
+  
+</div>
