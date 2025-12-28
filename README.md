@@ -38,9 +38,8 @@ Beyond coding, I’m a **technical writer & mentor**, helping others grow in the
 - ⚡ Developing **Odoo ERP modules & automation features**  
 - 🌱 Learning **Odoo 18 advanced features & Python optimization**  
 - 📚 Contributing to **open-source Odoo projects**  
-- 📫 Reach me: **ayeshachowdhury45@gmail.com**  
-- 🌐 Portfolio: [Click Here](https://ayeshachowdhury45.github.io/)  
-- 📝 Resume: [View Resume](https://drive.google.com/file/d/1X-YVE9_9Kl0Ad1_HwNFS55WTlOiBI5ip/view?usp=sharing)
+- 📫 Reach me: **ayesha.chowdhury5670@gmail.com**  
+
 
 ---
 
@@ -61,18 +60,19 @@ Beyond coding, I’m a **technical writer & mentor**, helping others grow in the
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <!-- GitHub Stats Card -->
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=ayeshachowdhury45&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&include_all_commits=true" alt="Ayesha's GitHub Stats" />
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ayeshachowdhury45&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&cache_seconds=1800" width="350" />
-    </td>
-    <td style="width:30px;"></td> <!-- spacer -->
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshachowdhury45&layout=donut&theme=tokyonight&hide_border=true&border_radius=15&cache_seconds=1800" width="350" />
-    </td>
-  </tr>
-</table>
+  <!-- Top Languages Card -->
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshachowdhury45&layout=compact&theme=vue-dark&hide_border=true&count_private=true" alt="Ayesha's Top Languages" />
+</p>
+
+<p align="center">
+  <!-- GitHub Streak Stats -->
+  <img width="820" src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshachowdhury45&theme=vue-dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
 
 ---
 
